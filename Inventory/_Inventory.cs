@@ -56,7 +56,8 @@ public class _Inventory : MonoBehaviour
     {
         instance = this;
         updatePanelSlots();
-        
+       
+
     }
 
 

@@ -9,11 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 44b8bd4bcfd4af4428f44fca503a0e72, type: 3}
-  m_Name: MedKit
+  m_Script: {fileID: 11500000, guid: 4220d6f737a42ea4da853e3c40c7d9fc, type: 3}
+  m_Name: AmmoTest
   m_EditorClassIdentifier: 
-  ItemType: 2
-  itemName: MedKit
-  icon: {fileID: 21300000, guid: 0e8920cac5af55d43b9178ceb238db9e, type: 3}
+  ItemType: 3
+  itemName: Ammo
+  icon: {fileID: 21300000, guid: b01b95b005e54b84ca4e66aa2a669c55, type: 3}
   ItemAmount: 0
-  heal: 55
